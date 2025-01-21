@@ -11,10 +11,9 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanDevv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-<div>
+<div align="center">
 <a href = "mailto:contato@jholmarco1706@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jhontanmarco" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-
   <div>
 <p align="center">
   <a href="https://skillicons.dev">
