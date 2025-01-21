@@ -16,6 +16,8 @@
 <a href="https://www.linkedin.com/in/jhontanmarco" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <div>
 <p align="center">
+  <h2> Tecnologias e Ferramentas </h2>
+  <h1>Aqui estão as tecnologias com as quais tenho experiência: </h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,java,postman" />
   </a>
