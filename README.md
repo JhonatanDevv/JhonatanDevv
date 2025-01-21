@@ -5,7 +5,7 @@
 <h3>Estou ativamente trabalhando em vários projetos para melhorar minhas habilidades em Java e aprofundar meu entendimento em desenvolvimento full-stack. Também estou explorando mais sobre práticas de DevOps para aumentar minha expertise técnica geral.</h3>
 
 
-<div>
+<div align="center">
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanDevv&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonatanDevv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
