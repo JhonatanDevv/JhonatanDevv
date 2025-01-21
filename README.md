@@ -17,7 +17,7 @@
 </div>
 
  <div>
-<p align="center">
+<p>
   <h2> 🚀 Tecnologias e Ferramentas </h2>
   <h3>Aqui estão as tecnologias com as quais tenho experiência: </h3>
   <a href="https://skillicons.dev">
