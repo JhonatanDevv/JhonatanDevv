@@ -19,8 +19,8 @@
  <div>
 <p>
   <h2> 🚀 Tecnologias e Ferramentas </h2>
-  <h3>Aqui estão as tecnologias com as quais tenho experiência: </h3>
- <h3></h3>
+  <h2>Aqui estão as tecnologias com as quais tenho experiência: </h2>
+ 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,java,postman" />
   </a>
