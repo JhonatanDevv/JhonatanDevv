@@ -1,4 +1,4 @@
-<h1> Bem-vindo ao Meu Perfil no GitHub! 🤙</h1>
+<h1><b> Bem-vindo ao Meu Perfil no GitHub!</b> 🤙</h1>
 
 
 <h2>Olá! Sou Jhonatan atualmente estudando Engenharia de Software. Meu foco principal é aprimorar minhas habilidades em programação em Java, mas também tenho experiência com HTML, CSS, JavaScript e basico em Devops.</h2>
@@ -18,9 +18,8 @@
 
  <div>
 <p>
-  <h2> 🚀 Tecnologias e Ferramentas </h2>
+  <h3> 🚀 Tecnologias e Ferramentas </h3>
   <h2>Aqui estão as tecnologias com as quais tenho experiência: </h2>
- 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,js,java,postman" />
   </a>
